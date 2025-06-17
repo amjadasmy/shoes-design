@@ -81,3 +81,9 @@ https://shoesdesign-amjad.github.io/shoes-website/
 
 </body>
 </html>
+<link rel="stylesheet" href="style.css">
+<head>
+  <meta charset="UTF-8">
+  <title>Shoes Product Card</title>
+  <link rel="stylesheet" href="style.css">
+</head>
